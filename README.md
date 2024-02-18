@@ -14,3 +14,7 @@ A powerful JavaScript-based tool designed to perform complex mathematical calcul
 2.User-Friendly Interface: With an intuitive and user-friendly design, this calculator provides a seamless experience for users of all levels. The interface is clean, responsive, and easy to navigate.
 
 3.Real-Time Calculation: Experience instant calculations as you input your expressions. The calculator dynamically updates results, allowing users to see the impact of each input in real time.
+
+
+## Tools Used in This Project:
+<img src="https://skillicons.dev/icons?i=vscode,html,css,javascript" />
